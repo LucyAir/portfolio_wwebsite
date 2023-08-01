@@ -17,9 +17,7 @@ superuser: true
 role: Data Analyst & Election Science Researcher
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: New York DSCC
-    url: https://www.newyorksenatedems.com
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: Data Analyst & Election Science Researcher
