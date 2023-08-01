@@ -9,7 +9,7 @@ appearance:
   theme_day: rose
   theme_night: ocean
   font: minimal
-  font_size: L
+  font_size: M
 
 # SEO
 
