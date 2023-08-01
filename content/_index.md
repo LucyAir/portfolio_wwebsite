@@ -66,7 +66,7 @@ sections:
               * Developed surveys based on client requests
         - title: Undergraduate Researcher
           company: University of Florida Election Lab
-          company_url: 'https://www.dataforprogress.org'
+          company_url: 'https://electionscience.clas.ufl.edu'
           company_logo: uf
           location: Gainesville, Florida
           date_start: '2021-01-01'
