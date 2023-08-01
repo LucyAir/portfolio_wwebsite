@@ -1,15 +1,15 @@
 ---
-title: Example Project
+title: "MPSA 2022 Presentation: A Shift in Jewish Voting Behavior in the 2020 Presidential Election"
 summary: An example of using the in-built project page.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - ElectionSci
+date: '2023-07-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Image made using Canva
   focal_point: Smart
 
 links:
