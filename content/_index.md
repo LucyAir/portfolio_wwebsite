@@ -28,6 +28,7 @@ sections:
           icon: overleaf
           icon_pack: ai
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
