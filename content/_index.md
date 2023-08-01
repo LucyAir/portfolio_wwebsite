@@ -16,17 +16,17 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 90%
+          description: 
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description: 100%
+          description: 
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+        - name: Overleaf
+          description: 
+          icon: overleaf
+          icon_pack: ai
   - block: experience
     content:
       title: Experience
@@ -39,27 +39,42 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Data Analyst
+          company: New York Senate Democratic Campaign Committee
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: nyseal
+          location: New York, New York
+          date_start: '2023-04-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Building district databases
+              * Generating informative maps
+        - title: Electoral Polling Intern
+          company: Data for Progress
+          company_url: 'https://www.dataforprogress.org'
+          company_logo: dfp
+          location: Washington D.C.
+          date_start: '2022-09-01'
+          date_end: '2023-01-31'
+          description: |2-
+              Responsibilities include:
+
+              * Built a national database of potential democratic candidates
+              * Developed surveys based on client requests
+        - title: Undergraduate Researcher
+          company: University of Florida Election Lab
+          company_url: 'https://www.dataforprogress.org'
+          company_logo: uf
+          location: Gainesville, Florida
+          date_start: '2021-01-01'
+          date_end: '2023-03-31'
+          description: |2-
+              Responsibilities include:
+
+              * Conducted research on voter tunrout and behavior
+              * Built redistricting maps
     design:
       columns: '2'
   - block: accomplishments
