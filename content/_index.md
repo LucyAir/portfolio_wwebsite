@@ -95,10 +95,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Election Science
+          tag: ElectionSci
+        - name: Blog Posts
+          tag: Blog
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
