@@ -42,7 +42,7 @@ sections:
       items:
         - title: Data Analyst
           company: New York Senate Democratic Campaign Committee
-          company_url: ''
+          company_url: 'https://www.newyorksenatedems.com'
           company_logo: nyseal
           location: New York, New York
           date_start: '2023-04-01'
