@@ -1,6 +1,6 @@
 ---
-title: "MPSA 2022 Presentation: A Shift in Jewish Voting Behavior in the 2020 Presidential Election"
-summary: A look into my undergraduate thesis on Jewish voting beheavior, specifically ralting to jewish voters and Donald Trump's rhetoric.
+title: "The Effect of Covid-19 on Youth Voter Turnout in 2020 "
+summary: "What happened to students living on their college campuses who were preparing to vote just days before their sent home at the beginning of the Covid-19 pandemic?"
 tags:
   - ElectionSci
 date: '2023-07-30T00:00:00Z'
