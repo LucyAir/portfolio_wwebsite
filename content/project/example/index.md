@@ -1,7 +1,7 @@
 ---
 title: "MPSA 2022 Presentation: A Shift in Jewish Voting Behavior in the 2020 Presidential Election"
 subtitle: "This is a brief overview of the research conducted, futher information can be found in the slides or you can contact me for the working paper."
-summary: A look into my undergraduate thesis on Jewish voting beheavior, specifically ralting to jewish voters and Donald Trump's rhetoric.
+summary: An informal look into my undergraduate thesis on Jewish voting behavior, specifically relating to jewish voters and Donald Trump's rhetoric.
 tags:
   - ElectionSci
 date: '2023-07-30T00:00:00Z'
@@ -27,5 +27,14 @@ url_video: ''
 slides: example
 ---
 
-  For the purposes of my undergraduate thesis, I decided to take a look into voting behavior in my home state of Florida. In both 2008 and 2012, Barack Obama carried the state followed by two victories for Donald Trump. Everyone was, and is still, asking; What happened to Florida? In an attempt to gain insight into that answer, I decided to look at my own community of Jewish-Americans. I hypothesized that Donald Trump's rhetoric surrounding Israel would have an effect on Jewish voters in South Florida. To achieve this, I used the state voter file and precinct level data to compare voter turnout and vote choice in highly populated Jewish areas. 
+### **Introduction**
+
+For the purposes of my undergraduate thesis, I decided to take a look into voting behavior in my home state of Florida. In both 2008 and 2012, Barack Obama carried the state followed by two victories for Donald Trump. Everyone was, and is still, asking; What happened to Florida? In an attempt to gain insight into that answer, I decided to look at my own community of Jewish-Americans. I hypothesized that Donald Trump's rhetoric surrounding Israel would have an effect on Jewish voters in South Florida. To achieve this, I used the state voter file and precinct level data to compare voter turnout and vote choice in highly populated Jewish areas. 
+
+### **Key Background Information**
+
+In 2021, Pew Research Center published an in-depth report on Jewish-Americans in the United States. The report found that a majority of Jewish-Americans state they have "a degree of emotional attachment [to Israel]". I sought to understand how influential this attachment would prove to be in the frame of politics and candidate choice. Throughout his presidency, Donald Trump made clear attempts to capitalize on the growing support for Palestinians within the Democratic party, in an attempt to frame himself as the true "Pro-Israel Candidate".
+
+Before any analysis, I looked into the historical connection between the Jewish people and the political left. As of 2019, 70% of all voting age Jews were registered Democrats. Dr. Kenneth Wald's book, The Foundations of American Jewish Liberalism, aims to explain this phenomenon through a series of possibilities, many focusing on the long history of discrimination and abuse that the Jewish people faced. Wald also frames the 'rise of the religious right' in the 1980s as a potential direct threat to religious equality within the country. 
+ 
 
