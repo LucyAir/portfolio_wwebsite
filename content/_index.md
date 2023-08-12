@@ -135,7 +135,7 @@ sections:
         provider: netlify
         formspree:
           id:
-        netlify:
+        netlify: true
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
