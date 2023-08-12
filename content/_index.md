@@ -132,10 +132,10 @@ sections:
       autolink: true
       # Email form provider
       form:
-        provider:
+        provider: netflify
         formspree:
           id:
-        netlify: true
+        netlify: 
           # Enable CAPTCHA challenge to reduce spam?
           captcha: true
     design:
