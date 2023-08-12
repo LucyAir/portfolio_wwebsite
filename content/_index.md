@@ -27,6 +27,18 @@ sections:
           description: 
           icon: overleaf
           icon_pack: ai
+        - name: Research
+          description: 
+          icon: book-open
+          icon_pack: fas
+        - name: QGIS
+          description: 
+          icon: q
+          icon_pack: fas
+        - name: Python
+          description: 
+          icon: python
+          icon_pack: fab
   - block: experience
     id: experience
     content:
