@@ -5,7 +5,7 @@ summary: An informal look into my undergraduate thesis on Jewish voting behavior
 tags:
   - ElectionSci
 date: '2023-07-30T00:00:00Z'
-draft: true
+draft: false
 reading_time: true
 
 # Optional external URL for project (replaces project detail page).
