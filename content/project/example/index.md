@@ -6,6 +6,7 @@ tags:
   - ElectionSci
 date: '2023-07-30T00:00:00Z'
 draft: true
+reading_time: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -38,6 +39,15 @@ In 2021, Pew Research Center published an in-depth report on Jewish-Americans in
 
 Before any analysis, I looked into the historical connection between the Jewish people and the political left. As of 2019, 70% of all voting age Jews were registered Democrats. Dr. Kenneth Wald's book, The Foundations of American Jewish Liberalism, aims to explain this phenomenon through a series of possibilities, many focusing on the long history of discrimination and abuse that the Jewish people faced. Wald also frames the 'rise of the religious right' in the 1980s as a potential direct threat to religious equality within the country. 
 
+### **Donald Trump and Israel**
 
+Unsurprisingly, Donald Trump's controversial nature did not halt at the doorstep of the Jewish community. American-Jewish groups have cited him as both antisemetic and philosemetic. During his time in office, his administration led a number of policies that were viewed favorably by the Israeli government that in the lead up to the 2020 U.S. presidential election, 63% of Israeli citizens supported him. This fact is made more interesting given that prior to the 2016 election, Hilary Clinton was the candidate slightly favored in the country.
+
+### **Research Design** 
+To conduct my study, I utilized the Florida Division of Election's Election Recap files following the 2020 General Election for Miami-Dade, Broward, and Palm Beach counties. I introduced a dichtomous variable into the data fram which indicated whether or not the individual had been born in Israel. The data was then aggregated from the individual-level to the precinct-level to determine the percentage of the precinct that was Israeli-born. 
+
+I also used the Precinct-Level Results files for the 2020 and 2016 General Elections in the three same Florida counties. This determined the vote share for the Republican and Democratic candidates which was merged with the aggregated Israeli-born data by the unique precinct identifier code. An additional dichotomous variable was introduced to determine whether or not the precinct was greater than 2% Israeli-born. This variable was how I compiled my conservative sample of high Jewish areas. This left me with 20 precincts of interest. 
+
+![screen reader text](Broward.jpg "caption")
  
 
