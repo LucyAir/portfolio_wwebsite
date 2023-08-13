@@ -48,6 +48,7 @@ To conduct my study, I utilized the Florida Division of Election's Election Reca
 
 I also used the Precinct-Level Results files for the 2020 and 2016 General Elections in the three same Florida counties. This determined the vote share for the Republican and Democratic candidates which was merged with the aggregated Israeli-born data by the unique precinct identifier code. An additional dichotomous variable was introduced to determine whether or not the precinct was greater than 2% Israeli-born. This variable was how I compiled my conservative sample of high Jewish areas. This left me with 20 precincts of interest. 
 
-![screen reader text](Broward.jpg "caption")
- 
+![screen reader text](Miami.png "Figure 1: Israel-born Precincts > 2% (Miami-Dade County)")
+![screen reader text](Broward.png "Figure 2: Israel-born Precincts > 2% (Broward County)")
+![screen reader text](Palmbeach.png "Figure 3: Israel-born Precincts > 2% (Palm Beach County)") 
 
