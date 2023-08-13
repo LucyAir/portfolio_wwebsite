@@ -5,6 +5,7 @@ summary: An informal look into my undergraduate thesis on Jewish voting behavior
 tags:
   - ElectionSci
 date: '2023-07-30T00:00:00Z'
+draft: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -36,5 +37,7 @@ For the purposes of my undergraduate thesis, I decided to take a look into votin
 In 2021, Pew Research Center published an in-depth report on Jewish-Americans in the United States. The report found that a majority of Jewish-Americans state they have "a degree of emotional attachment [to Israel]". I sought to understand how influential this attachment would prove to be in the frame of politics and candidate choice. Throughout his presidency, Donald Trump made clear attempts to capitalize on the growing support for Palestinians within the Democratic party, in an attempt to frame himself as the true "Pro-Israel Candidate".
 
 Before any analysis, I looked into the historical connection between the Jewish people and the political left. As of 2019, 70% of all voting age Jews were registered Democrats. Dr. Kenneth Wald's book, The Foundations of American Jewish Liberalism, aims to explain this phenomenon through a series of possibilities, many focusing on the long history of discrimination and abuse that the Jewish people faced. Wald also frames the 'rise of the religious right' in the 1980s as a potential direct threat to religious equality within the country. 
+
+
  
 
