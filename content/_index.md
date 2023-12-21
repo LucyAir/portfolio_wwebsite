@@ -127,7 +127,6 @@ sections:
       text: |-
       # Contact (add or remove contact options as necessary)
       email: payton.lussier@outlook.com
-      phone: +1 (954) 234-4101
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
