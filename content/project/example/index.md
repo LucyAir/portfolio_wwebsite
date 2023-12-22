@@ -1,6 +1,6 @@
 ---
 title: "MPSA 2022 Presentation: A Shift in Jewish Voting Behavior in the 2020 Presidential Election"
-subtitle: "This is a brief overview of the research conducted, further information can be found in the slides or you can contact me for the working paper."
+subtitle: "This is a brief overview of the research conducted, not the completed paper."
 summary: An informal look into my undergraduate thesis on Jewish voting behavior, specifically relating to Jewish voters and Donald Trump's rhetoric.
 tags:
   - ElectionSci
@@ -17,7 +17,7 @@ image:
 
 links:
 url_code: ''
-url_pdf: ''
+url_pdf: '/Users/paytonlussier/Desktop/portfolio_wwebsite/assets/media/Lussier_Thesis_2022 copy.pdf'
 url_slides: ''
 url_video: ''
 
@@ -26,7 +26,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 ### **Introduction**
