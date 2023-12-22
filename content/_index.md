@@ -62,8 +62,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Building district databases
-              * Generating informative maps
+              *Used voter file and vote history data to construct election turnout models.
+              *Used R to create an R markdown file that generated campaign donor information utilizing New York State Board of Elections campaign finance filings. The document provided insight into the geographic placement and number of in-district donors.
+
         - title: Electoral Polling Intern
           company: Data for Progress
           company_url: 'https://www.dataforprogress.org'
@@ -74,8 +75,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Built a national database of potential democratic candidates
-              * Developed surveys based on client requests
+              * Created and maintained a dataset of potential and announced Democratic candidates for state office. 
+              * Led a project that looked to analyze trends regarding support for the Independent Legislature Theory and legislative involvement in electoral administration. Independently wrote survey questions and produced reports on findings that included data visualizations.     
+              * Worked with senior staff to design and field a survey for a prospective Virginia State Senate candidate. Assisted in writing questions for the candidate to better understand constituent concerns and needs. 
         - title: Undergraduate Researcher
           company: University of Florida Election Lab
           company_url: 'https://electionscience.clas.ufl.edu'
