@@ -88,8 +88,10 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Conducted research on voter tunrout and behavior
-              * Built redistricting maps
+              * Led a project on the impact of Covid-19 on youth voter turnout on college campuses. Utilized voter file data and a difference-in-difference analysis to conclude that the Covid-19 campus evacuation order suppressed primary turnout when compared to youth voters in the surrounding area. 
+              * Performed data integration using a Python script that matched information from election observer volunteer documents to their voter file data.
+              * Conducted research on behalf of the League of Women Voters on redistricting maps in Florida. Studied the Voting Rights Act to look for violations in the maps proposed by the state government. 
+
     design:
       columns: '2'
 
