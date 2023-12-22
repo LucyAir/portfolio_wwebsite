@@ -62,8 +62,8 @@ sections:
           description: |2-
               Responsibilities include:
 
-              *Used voter file and vote history data to construct election turnout models.
-              *Used R to create an R markdown file that generated campaign donor information utilizing New York State Board of Elections campaign finance filings. The document provided insight into the geographic placement and number of in-district donors.
+              * Used voter file and vote history data to construct election turnout models.
+              * Used R to create an R markdown file that generated campaign donor information utilizing New York State Board of Elections campaign finance filings. The document provided insight into the geographic placement and number of in-district donors.
 
         - title: Electoral Polling Intern
           company: Data for Progress
