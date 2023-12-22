@@ -1,6 +1,6 @@
 ---
 title: "MPSA 2022 Presentation: A Shift in Jewish Voting Behavior in the 2020 Presidential Election"
-subtitle: "This is a brief overview of the research conducted, not the completed paper."
+subtitle: "This is a brief overview of the research conducted, the working paper can be found as a PDF download below."
 summary: An informal look into my undergraduate thesis on Jewish voting behavior, specifically relating to Jewish voters and Donald Trump's rhetoric.
 tags:
   - ElectionSci
@@ -12,7 +12,7 @@ reading_time: true
 external_link: ''
 
 image:
-  caption: Made with Canva
+  caption: Made with Canva 2023
   focal_point: Smart
 
 links:
