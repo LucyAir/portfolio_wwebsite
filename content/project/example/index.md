@@ -17,7 +17,7 @@ image:
 
 links:
 url_code: ''
-url_pdf: '/Users/paytonlussier/Desktop/portfolio_wwebsite/assets/media/Lussier_Thesis_2022 copy.pdf'
+url_pdf: '/Users/paytonlussier/Desktop/portfolio_wwebsite/themes/starter-hugo-academic/static/uploads/Lussier_Thesis_2022 copy.pdf'
 url_slides: ''
 url_video: ''
 
